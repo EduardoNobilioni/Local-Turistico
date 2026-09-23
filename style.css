@@ -1,0 +1,127 @@
+:root {
+  --primary-color: #0c51a7;
+  --secondary-color: #e5245e;
+  --tertiary-color: #e95e10;
+  --font-family: "Open Sans", sans-serif;
+  --font-size: 16px;
+}
+
+header {
+  text-align: left;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+#page {
+  width: 1120px;
+  margin: 88px auto 0;
+  padding: 24px;
+  box-sizing: border-box;
+}
+
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #e1624f;
+  margin: 40px 0 16px;
+  margin-bottom: 2px;
+  font-weight: bold;
+  padding: 0;
+  box-sizing: border-box;
+}
+p {
+  text-align: justify;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-top: 0px;
+  padding: 0px;
+  font-size: 36px;
+  margin-bottom: 0px;
+}
+
+section {
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.titulo {
+  margin: 10px;
+  margin-left: auto;
+  margin-bottom: 40px;
+}
+
+.vista-busan {
+  width: 1120px;
+  height: 660px;
+  border-radius: 16px;
+  object-fit: cover;
+  max-width: 100%;
+  display: block;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.principal {
+  font-size: 16px;
+  text-align: justify;
+  margin-bottom: 64px;
+  margin-top: 64px;
+}
+
+.imagens {
+  width: auto;
+  max-width: 100%;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 48px;
+}
+
+ul {
+  margin-top: 4px;
+  padding-left: 20px;
+}
+
+.casais,
+.historia {
+  color: #0c51a7;
+  font-weight: bold;
+}
+
+.familias {
+  color: #e5245e;
+  font-weight: bold;
+}
+
+.orcamento {
+  color: #e95e10;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+#conclusao {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+footer {
+  font-family: "Alice", serif;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+footer img {
+  vertical-align: middle;
+}
