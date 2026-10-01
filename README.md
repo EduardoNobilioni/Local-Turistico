@@ -19,8 +19,8 @@ O projeto apresenta Busan, na Coreia do Sul, e destaca três de seus pontos tur�
 
 ## Como executar
 
-1. Baixe ou clone este repositório.
-2. Abra o arquivo `index.html` no navegador.
+1. Acesse https://eduardonobilioni.github.io/Local-Turistico/
+2. Navegue pela página para conferir o layout.
 
 Não é necessário instalar dependências ou executar uma etapa de compilação. Para carregar as fontes do Google Fonts, é necessária uma conexão com a internet.
 
